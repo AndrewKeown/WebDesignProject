@@ -1,0 +1,108 @@
+nav {
+    background-color: black;
+    padding: 5px;
+}
+
+nav ul li {
+    list-style-type: none;
+    background-color: #B2B2B2;
+    display: inline;
+    padding: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li:hover { background-color: gold;}
+
+nav ul {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#active {
+    background-color: darkseagreen;
+}
+
+
+.image1 {
+    width: 100% ;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    
+}
+
+.youngmichael{
+    width: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+}
+
+.solomichael{
+    width: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+}
+
+.pepsi_incident{
+    width: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+}
+
+.the_end{
+    width: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+}
+
+.paul_michael{
+    width: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+}
+
+.freddie_michael{
+    width: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+}
+
+.stevie_michael{
+    width: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+}
+
+.will_michael{
+    width: auto;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+}
+
+.intro {
+    text-align: center;
+    border: 5px solid black;
+    margin: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
