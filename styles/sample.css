@@ -142,6 +142,17 @@ footer {
     float: center;
 }
 
+.michael_cinema {
+    text-align: center;
+    border: 5px solid black;
+    margin: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: center;
+}
+
+
+
 h1,h2,h3,h4{
     font-family: 'Times New Roman';
 }
