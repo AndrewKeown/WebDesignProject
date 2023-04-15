@@ -61,76 +61,77 @@ footer {
 }
 
 .youngmichael{
-    width: auto;
+    width: 50%;
     margin: auto;
     display: flex;
+    flex-direction: column;
     align-items: center;
     border: 5px solid black;
-    float: center;
     
 }
 
 .solomichael{
-    width: auto;
+    width: 50%;
     margin: auto;
     display: flex;
+    flex-direction: column;
     align-items: center;
     border: 5px solid black;
-    float: center;
 }
 
+
 .pepsi_incident{
-    width: auto;
+    width: 50%;
     margin: auto;
     display: flex;
+    flex-direction: column;
     align-items: center;
     border: 5px solid black;
-    float: center;
 }
 
 .the_end{
-    width: auto;
+    width: 50%;
     margin: auto;
     display: flex;
+    flex-direction: column;
     align-items: center;
     border: 5px solid black;
-    float: center;
 }
 
 .paul_michael{
-    width: auto;
+    width: 50%;
     margin: auto;
     display: flex;
+    flex-direction: column;
     align-items: center;
     border: 5px solid black;
-    float: center;
 }
 
 .freddie_michael{
-    width: auto;
+    width: 50%;
     margin: auto;
     display: flex;
+    flex-direction: column;
     align-items: center;
     border: 5px solid black;
-    float: center;
 }
 
 .stevie_michael{
-    width: auto;
+    width: 50%;
     margin: auto;
     display: flex;
+    flex-direction: column;
     align-items: center;
     border: 5px solid black;
-    float: center;
 }
 
 .will_michael{
-    width: auto;
+    width: 50%;
     margin: auto;
     display: flex;
+    flex-direction: column;
     align-items: center;
     border: 5px solid black;
-    float: center;
 }
 
 .intro {
@@ -182,6 +183,8 @@ footer {
 
 h1,h2,h3,h4{
     font-family: 'Times New Roman';
+    text-align: center;
+
 }
 
 .videoContent {
